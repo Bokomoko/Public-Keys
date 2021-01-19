@@ -5,3 +5,5 @@ Please feel free to use my public keys to send me secure data.
 
 I´ll be glad to use the public key technology to ensure privacy, authentication and public trust.
 
+![My Public Key](joao.eurico-live-randomart.png)
+
