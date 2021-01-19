@@ -7,4 +7,4 @@ I´ll be glad to use the public key technology to ensure privacy, authentication
 
 ![My Public Key](joao.eurico-live-randomart.png)
 
-![My Public Key](joao.eurico-live-qrcode.jpg)
+![My Public Key](joao.eurico-live-qrcode.png)
